@@ -27,7 +27,7 @@ This project presents an interactive Excel dashboard designed to deliver clear, 
 
   * Power Query
   * Pivot Tables
-  * Slicers & Timelines
+  * Timelines
   * Excel Charts
 
 ## Purpose
