@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an interactive Excel dashboard designed to deliver clear, consistent, and actionable insights on regional and store-level sales performance. It tracks monthly revenue trends, year-over-year changes, store comparisons, and top product gains and losses while maintaining scalability for expanding data sources.
+This project presents an interactive Excel dashboard designed to deliver clear, consistent, and actionable insights on regional and store level sales performance. It tracks monthly revenue trends, year-over-year changes, store comparisons, and top product gains and losses while maintaining scalability for expanding data sources.
 
 ## Features
 
